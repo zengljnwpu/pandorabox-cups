@@ -14,4 +14,4 @@ make menuconfig (set Network->Printing->cups as "M")
 
 make
 
-copy /source/bin/packages/[arch]/cups/*.ipk to machine & opkg install 
+copy /source/bin/packages/[PLATFORM]/cups/*.ipk to machine & opkg install 
