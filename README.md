@@ -17,4 +17,5 @@ make
 copy /source/bin/packages/[PLATFORM]/cups/*.ipk to machine & opkg install 
 
 
-Version of cups 2.3.0
+# Version of cups
+2.3.0
