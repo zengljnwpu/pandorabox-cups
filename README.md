@@ -1,10 +1,10 @@
-# This repository is no longer maintained
+# This repository is no longer maintained original repo https://github.com/Gr4ffy/lede-cups.git
 
 git clone https://github.com/lede-project/source
 
 cd source
 
-echo "src-git cups https://github.com/Gr4ffy/lede-cups.git" >> feeds.conf.default
+echo "src-git cups https://github.com/TheMMcOfficial/lede-cups.git" >> feeds.conf.default
 
 ./scripts/feeds update -a
 
