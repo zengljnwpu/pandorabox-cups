@@ -1,5 +1,3 @@
-# openwrt-cups
-=======
 # This repository is no longer maintained original repo https://github.com/Gr4ffy/lede-cups.git
 
 CUPS for openwrt
